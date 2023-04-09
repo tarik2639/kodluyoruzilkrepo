@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 [MIT](https://choosealicense.com/licenses/mit)
 
-[you](https://www.youtoube.com)
+[you](https://www.youtube.com)
